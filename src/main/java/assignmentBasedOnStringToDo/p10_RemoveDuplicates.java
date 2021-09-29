@@ -4,7 +4,7 @@ package assignmentBasedOnStringToDo;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class RemoveDuplicates 
+public class p10_RemoveDuplicates 
 {
 	static void removeDuplicates(char str[], int lenght)
 	{
