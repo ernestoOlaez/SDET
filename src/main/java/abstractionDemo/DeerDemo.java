@@ -12,7 +12,7 @@ public class DeerDemo extends AnimalDemo {
 	void eat()
 	{
     	
-	   System.out.println("Deer eats Non veg food..");
+	   System.out.println("Deer eats Non veg food....");
 	   a=100;
 	   System.out.println(a);
 	   drink();
