@@ -18,6 +18,8 @@ public class Chrome_Launch {
 		WebDriver driver=new ChromeDriver();
 		
 	   driver.get("https://opensource-demo.orangehrmlive.com/");
+	   driver.manage().window().maximize();
+	   System.out.println("Close sucess!");
 
 	}
 
