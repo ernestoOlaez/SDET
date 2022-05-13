@@ -18,7 +18,7 @@ public class Hal
 	      int x = random.nextInt() % 640;
 	      int y = random.nextInt() % 480;
 	      hal.mouseMove(x,y);
-	      System.out.println("..."+c);
+	      System.out.println("--> "+c);
 
 	}
 
